@@ -1,2 +1,2 @@
 # sample-cqrs
-Amostra básica com madiator e rebus
+Amostra básica com mediator e rebus
